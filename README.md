@@ -1,5 +1,2 @@
-# CSGOConfig
-All settings (config) for PC Game Counter Strike:Global Offensive
-
-##  Turn on custom chat
--language bananagaming
+# CS2-Config
+All settings (config) for PC Game Counter-Strike 2
